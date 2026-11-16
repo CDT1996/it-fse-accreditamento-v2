@@ -22,6 +22,12 @@
       "workflowInstanceId": ""
     },
     {
+      "id": 40,
+      "ts": "2026-11-16T19:46:22Z",
+      "traceId": "ad9f78431f3d5b6d530f458f44a0eaca",
+      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+    },
+    {
       "id": 152,
       "ts": "2026-11-10T08:33:35Z",
       "traceId": "3060edda5a93a649225259e929b9854d",
