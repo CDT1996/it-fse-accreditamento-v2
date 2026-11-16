@@ -5,9 +5,9 @@
   "results": [
     {
       "id": 448,
-      "ts": "2026-11-13T12:55:19Z",
-      "traceId": "ad0de46127e7f5a7c20ecac86d036c82",
-      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.3.1.4.4.e144bf5947e6093f6649f0aeb4ad7b1cf24e00b5abf13566eaa8b8d1bd4aac56.67b44412ab^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
+      "ts": "2026-11-13T17:31:09Z",
+      "traceId": "a96e3c6e04d77849da0da7e2a2f79f4f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.80.3.1.4.4.b5984fc130b1528e9a12aebfcaeaf5a8a0793765bb2119dc79ce2f765040d70b.95af1d7aef^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"
     },
     {
       "id": 32,
