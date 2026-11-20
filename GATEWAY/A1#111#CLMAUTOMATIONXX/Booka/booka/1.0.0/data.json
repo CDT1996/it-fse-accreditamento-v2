@@ -6,14 +6,12 @@
     {
       "id": 32,
       "ts": "2026-11-20T10:13:13Z",
-      "traceId": "ad15e1a27acca9a31c49b680c38b3e6f",
-      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+      "traceId": "ad15e1a27acca9a31c49b680c38b3e6f"
     },
     {
       "id": 40,
       "ts": "2026-11-20T10:13:13Z",
-      "traceId": "326a3469a17cd51e47d8b2d9c09fb03a",
-      "workflowInstanceId": "UNKNOWN_WORKFLOW_ID"
+      "traceId": "326a3469a17cd51e47d8b2d9c09fb03a"
     },
     {
       "id": 152,
